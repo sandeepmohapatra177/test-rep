@@ -1,2 +1,3 @@
 # test-rep
-this is a test repository
+this is a test repository.
+Author -Sandeep
